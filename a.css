@@ -8,7 +8,7 @@ body {
     height: 400px;
     position: relative;
   }
-  
+  .a{color:read}
   .holder *, .holder *:before, .holder *:after {
     position: absolute;
     content: "";
